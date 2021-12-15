@@ -1,7 +1,7 @@
 function checkUnitPlace(number){
     switch(parseInt(number)) {
         case 1:
-            console.log("Unit");
+            console.log("ones");
             break;
         case 10:
             console.log("Ten");
